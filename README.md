@@ -1,5 +1,15 @@
 ![GenI-Banner](https://github.com/genilab-fau/genial-fau.github.io/blob/8f1a2d3523f879e1082918c7bba19553cb6e7212/images/geni-lab-banner.png?raw=true)
 
+# My Prompt Engineering Lab
+
+This project uses AI to generate software requirements for an Etsy-like marketplace. We tested two methods:
+
+Meta-Prompting – AI creates a structured prompt before generating the final requirements.
+Few-Shot Prompting – AI learns from examples to create a well-structured response.
+
+**See New Files in Prompt Folder + Report**
+
+*All current original config files and codes were kept as references*
 
 # Prompt Engineering Lab
 
