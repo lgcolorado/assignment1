@@ -78,8 +78,11 @@ By changing both the way we prompted the AI and fine-tuning settings, we made it
 # Further research
 
 *Combining Techniques: Testing how other methods (like Chain-of-Thought, Few Shots, etc.) can work together for better results without using too much computing power.
+
 *Smarter AI Prompts: Creating AI models that adjust their approach based on available resources and project complexity.
+
 *Testing Different AI Models: Running the same prompts on different AI models to compare accuracy, speed, and efficiency based on our CPU-limited setup.
+
 *Using AI in Real Projects: Applying these techniques in real software projects to see how well they work in actual development.
 
 By looking into these areas, we can make AI tools more useful for automating software planning and documentation.
