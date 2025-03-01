@@ -8,7 +8,7 @@ This bot..
 This is a response to the Assignment part of the COURSE.
 -->
 
-* Authors: [Laura Colorado]
+* Authors: Laura Colorado
 * Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
 
   
