@@ -8,7 +8,7 @@ This bot..
 This is a response to the Assignment part of the COURSE.
 -->
 
-* Authors: [Laura Colorado](http://www.YOURPAGE.xxx), [NAME_n](http://www.YOURPAGE.xxx)
+* Authors: [Laura Colorado]
 * Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
 
   
@@ -55,7 +55,25 @@ Our reserach involves testing how Few-Shot Prompting and Meta-Prompting can impr
 
 # Results
 
-Describe the results achieved through your research process.
+First Experiment: Meta-Prompting:
+
+The AI first created a structured prompt, then used it to generate the final requirement analysis.
+The output was detailed but took longer (100-115s).
+Some parts were repetitive and could be more concise.
+
+Second Experiment: Few-Shot Prompting with Tuning
+Provided examples of other requirement analyses to guide the AI.
+Tweaked settings like temperature, context length, and word limit.
+The response was faster (~80s), more structured, and clearer with fewer unnecessary details.
+
+How Tuning Helped:
+Lowered randomness (temperature) → More consistent and structured responses.
+Optimized context length → Kept important details while proviing filtering.
+Limited word count → Prevented over-explaining and made the response more efficient.
+Using examples (Few-Shot) → Helped the AI generate better-structured answers right away.
+
+Conclusion
+By changing both the way we prompted the AI and fine-tuning settings, we made it faster, clearer, and more useful. The Few-Shot method with tuning worked best, balancing speed and quality for better requirement analysis.
 
 # Further research
 
