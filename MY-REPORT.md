@@ -14,13 +14,13 @@ This is a response to the Assignment part of the COURSE.
   
 # Research Question 
 
-1-liner description of your request (or exploration).. Make it enthusiastically!
+How can different Prompt Engineering techniques, such as Few-Shot Prompting and Meta-Prompting, enhance automated Requirement Analysis for an Etsy-like online marketplace?
 
 ## Arguments
 
 #### What is already known about this topic
 
-* you could do {something} to achieve {some result}
+*  Requirement Analysis ensures that software development meets functional, technical, and security expectations.
 * the challenges of {doing something}
 * the possibility of {doing something else}
 * ...
