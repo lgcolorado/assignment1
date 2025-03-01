@@ -23,7 +23,7 @@ How can different Prompt Engineering techniques, such as Few-Shot Prompting and 
 Requirement Analysis in software development ensures that technical, security, and functional needs are properly defined. When combined with Prompt Engineering techniques like Few-Shot and Meta-Prompting, AI-generated Requirement Analysis can be enhanced for greater accuracy and clarity. Few-Shot Prompting helps models identify patterns by using examples, while Meta-Prompting allows AI to create structured prompts before executing the primary task.
 
 #### Challenges
-For Few-Shot Prompting to be effective, high-quality examples are essential to producing strong outputs. Meta-Prompting, while offering a structured-driven approach to AI-generated Requirement Analysis, requires more computational resources, which reduces efficiency in CPU-limited environments. Since Meta-Prompting focuses on structure rather than specific content, it may produce overly generalized requirement lists, potentially missing context-specific details. As a result, human review is necessary to ensure accuracy the given output.
+For Few-Shot Prompting to be effective, high-quality examples are essential for producing strong outputs. Meta-Prompting, while offering a structure-driven approach to AI-generated Requirement Analysis, requires more computational resources, which reduces efficiency in CPU-limited environments. Since Meta-Prompting focuses on structure rather than specific content, it may produce overly generalized requirement lists, potentially missing context-specific details. As a result, human review is necessary to ensure the accuracy of the given output.
 
 #### Opportunities
 Refining Few-Shot examples can make AI-generated requirement lists more detailed and better aligned with specific use cases. Combining Meta-Prompting with other techniques can improve the automation and efficiency of Requirement Analysis, making it more adaptable to different projects.
@@ -43,7 +43,7 @@ Refining Few-Shot examples can make AI-generated requirement lists more detailed
 
 # Research Method
 
-Our reserach involves testing how Few-Shot Prompting and Meta-Prompting can improve AI-driven Requirement Analysis for an Etsy-like marketplace. These are the follwing steps taken:
+Our reserach involves testing how Few-Shot Prompting and Meta-Prompting can improve AI-driven Requirement Analysis for an Etsy-like marketplace. These are the following steps taken:
 
 1. Creating Test Cases – We set up real-world examples of Requirement Analysis to use as a guide.
 2. Using Few-Shot Prompting – We give the AI examples to see if it can learn patterns and generate better results.
@@ -51,7 +51,7 @@ Our reserach involves testing how Few-Shot Prompting and Meta-Prompting can impr
 4. Comparing Results – We look at how well each technique works in terms of accuracy, clarity, and efficiency
    Note: Tests were run on a CPU-limited system, so we optimized the approach to ensure efficient performance while testing.
 6. Analysis – We check the AI’s responses to see where they can be better and make adjustments.
-7. Refinining  – We tweak our methods to make the process more effective for different projects.
+7. Refining  – We tweak our methods to make the process more effective for different projects.
 
 # Results
 
