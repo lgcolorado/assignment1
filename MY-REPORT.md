@@ -58,18 +58,27 @@ Our reserach involves testing how Few-Shot Prompting and Meta-Prompting can impr
 First Experiment: Meta-Prompting:
 
 The AI first created a structured prompt, then used it to generate the final requirement analysis.
+
 The output was detailed but took longer (100-115s).
+
 Some parts were repetitive and could be more concise.
 
 Second Experiment: Few-Shot Prompting with Tuning
+
 Provided examples of other requirement analyses to guide the AI.
+
 Tweaked settings like temperature, context length, and word limit.
+
 The response was faster (~80s), more structured, and clearer with fewer unnecessary details.
 
 How Tuning Helped:
+
 Lowered randomness (temperature) → More consistent and structured responses.
+
 Optimized context length → Kept important details while proviing filtering.
+
 Limited word count → Prevented over-explaining and made the response more efficient.
+
 Using examples (Few-Shot) → Helped the AI generate better-structured answers right away.
 
 Conclusion
